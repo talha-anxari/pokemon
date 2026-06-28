@@ -76,3 +76,4 @@ const Footer = () => {
 };
 
 export default Footer;
+// npx plugins add vercel/vercel-plugin
